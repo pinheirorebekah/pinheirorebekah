@@ -1,9 +1,3 @@
------
-
-<div>
-<img align="center" alt="Header" src="https://github.com/pinheirorebekah/pinheirorebekah/blob/main/img/header2.png?raw=true"/>
-</div>
-
 
 
 </div>
