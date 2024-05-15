@@ -6,3 +6,12 @@
 </div>
 
 -----
+-----
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+
+<div align="justify">
+Dev backend or frontend 
+</div>
+
+-----
