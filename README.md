@@ -7,8 +7,6 @@
 
 
 
-Sobre mim:
-
 <div align="justify">
 Dev backend or frontend 
 </div>
